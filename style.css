@@ -1,0 +1,15 @@
+.App {
+   text-align: center;
+}
+.App-header {
+   background-color: #222;
+   color: white;
+   font-size: 1.25rem;
+   margin: 0;
+   padding: 1rem;
+ }
+.tickers {
+   list-style-type: none;
+   padding: 0;
+   display: inline-flex;
+ }
